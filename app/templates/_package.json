@@ -1,0 +1,21 @@
+{
+  "name": "<%= _.slugify(siteName) %>",
+  "version": "1.0.0",
+  "author": "Monkee-Boy Dev Team",
+  "homepage": "http://monkee-boy.com",
+  "repository": {
+    "type": "svn",
+    "url": "https://monkeeboy.svn.beanstalkapp.com/mboy-wordpress-theme/"
+  },
+  "private": true,
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-devtools": "latest"
+  }
+}

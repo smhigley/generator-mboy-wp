@@ -1,0 +1,35 @@
+{
+  "name": "generator-mboy-wp",
+  "version": "0.0.0",
+  "description": "Monkee-Boy Wordpress theme generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "smhigley/generator-mboy-wp",
+  "author": {
+    "name": "Sarah Higley",
+    "email": "sarah@monkee-boy.com",
+    "url": "https://github.com/smhigley"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "wordpress",
+    "template",
+    "Monkee-Boy"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0",
+    "chalk": "~0.4.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
