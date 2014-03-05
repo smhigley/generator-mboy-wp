@@ -1,4 +1,4 @@
-# generator-mboy-wp [![Build Status](https://secure.travis-ci.org/smhigley/generator-mboy-wp.png?branch=master)](https://travis-ci.org/smhigley/generator-mboy-wp)
+# generator-mboy-wp
 
 A Yeoman generator for the [Monkee-Boy](http://www.monkee-boy.com) Wordpress starter theme built on Roots and Foundation. Still a work in progress, but it should spit out a functioning Wordpress theme.
 
@@ -45,9 +45,3 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 MIT
-=======
-generator-mboy-wp
-=================
-
-Yeoman generator for the Monkee-Boy wordpress theme
->>>>>>> 999000e333a80918e48f21091afa146dc2dec722
